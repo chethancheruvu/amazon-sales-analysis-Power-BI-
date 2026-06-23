@@ -54,7 +54,8 @@ The goal of this project is to transform raw sales data into meaningful business
 - Data Visualization
 
 ## Dashboard 
-<img width="1342" height="732" alt="Screenshot 2026-06-14 202825" src="https://github.com/user-attachments/assets/64c16e08-815d-4e17-a835-c2d057004798" />
+<img width="1343" height="737" alt="Screenshot 2026-06-23 113144" src="https://github.com/user-attachments/assets/4c48ee0b-0801-420c-b8d3-06ae86e6f15f" />
+
 
 
 
