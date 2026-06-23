@@ -53,6 +53,9 @@ The goal of this project is to transform raw sales data into meaningful business
 - Data Modeling
 - Data Visualization
 
+## Dashboard 
+<img width="1342" height="732" alt="Screenshot 2026-06-14 202825" src="https://github.com/user-attachments/assets/64c16e08-815d-4e17-a835-c2d057004798" />
+
 
 
 ## Key Business Insights
