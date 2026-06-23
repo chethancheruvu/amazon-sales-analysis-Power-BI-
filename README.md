@@ -10,7 +10,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard.png)
+-<a  herf="https://github.com/chethancheruvu/zepto-analysis-dashboard/blob/main/zepto_sales_dataset.csv.xlsx">(dashboard.png)
 
 
 
