@@ -90,14 +90,7 @@ The goal of this project is to transform raw sales data into meaningful business
 
 
 
-## Future Improvements
-
-- Add dynamic date filters.
-- Implement drill-through analysis.
-- Create forecasting visuals.
-- Include customer segmentation analysis.
 
 
----
 
-If you found this project useful, please consider giving it a ⭐ on GitHub.
+
